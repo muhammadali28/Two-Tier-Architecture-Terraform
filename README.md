@@ -1,4 +1,4 @@
-# Project Name
+# Two Tier Architecture Terraform
 
 This project is a Terraform configuration for deploying a resilient and scalable 2-Tier Architecture in Azure.
 
